@@ -11,7 +11,7 @@ Configured S3 buckets with lifecycle policies, storage classes, and permissions 
 
 **Technologies Used:**  
 - AWS S3 (Learner Lab)  
-- Terraform (optional)  
+
 - JSON policies
 
 **Sample Lifecycle Policy:**
